@@ -1,2 +1,2 @@
 # webapp-color
-Simple webapp for testing 
+docker run -d -p 8282:8080 webapp-color
